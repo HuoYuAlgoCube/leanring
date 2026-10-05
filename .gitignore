@@ -1,0 +1,103 @@
+# ============================================================
+# _learning_ — Git 忽略规则
+# ============================================================
+
+# ---------- 编译产物 ----------
+# C / C++ 目标文件与静态/动态库
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exp
+*.pdb
+*.ilk
+*.idb
+*.gch
+*.pch
+
+# 可执行文件（Windows / Unix）
+*.exe
+*.out
+*.app
+*.com
+*.msi
+*.bat
+!*.gitkeep
+
+# 构建目录
+build/
+Build/
+out/
+bin/
+obj/
+dist/
+Debug/
+Release/
+x64/
+x86/
+
+# CMake / Make
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.make
+compile_commands.json
+
+# Visual Studio
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+.vs/
+
+# ---------- 编辑器 / IDE ----------
+# Sublime Text（工作区文件包含本机路径与窗口状态，不纳入版本控制）
+*.sublime-workspace
+
+# VS Code
+.vscode/
+
+# JetBrains / CLion
+.idea/
+*.iml
+
+# Vim / Emacs
+*.swp
+*.swo
+*~
+\#*\#
+.\#*
+
+# ---------- 系统文件 ----------
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+._*
+
+# ---------- 临时 / 日志 ----------
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+*.rej
+core
+core.*
+*.stackdump
+
+# ---------- 工具缓存 ----------
+# pi agent 缓存（仓库内各层级 .pi/cache 均被忽略）
+.pi/cache/
+**/.pi/cache/
+
+# ---------- 其它 ----------
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz

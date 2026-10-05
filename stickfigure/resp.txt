@@ -1,0 +1,13 @@
+-Wall
+-O2
+-o stickfigure
+
+src/main.c
+src/game.c
+
+-I"d:/libs/Cpp/raylib/include"
+-L"d:/libs/Cpp/raylib/lib"
+-lraylib
+-lopengl32
+-lgdi32
+-lwinmm

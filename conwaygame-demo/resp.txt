@@ -1,0 +1,13 @@
+-Wall
+-O2
+
+"src/main.c"
+"src/cell.c"
+
+-I"d:/libs/Cpp/raylib/include"
+-I"d:/libs/Cpp/raygui/src"
+-L"d:/libs/Cpp/raylib/lib"
+-lraylib
+-lopengl32
+-lgdi32
+-lwinmm

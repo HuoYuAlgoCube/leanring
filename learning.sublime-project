@@ -4,7 +4,7 @@
 		{
 			"path": "./",
             "name":"根目录",
-            "folder_exclude_patterns":["machine-learning-demo","natural-language-processing"]
+            "folder_exclude_patterns":["machine-learning-demo","natural-language-processing","bfs-demo","conwaygame-demo","3dcube-demo","function-painter-demo","supervised-learning","stickfigure"]
 		},
         {
             "path":"natural-language-processing",
@@ -13,6 +13,30 @@
         {
             "path":"machine-learning-demo",
             "name":"机器学习学习项目"
+        },
+        {
+            "path":"bfs-demo",
+            "name":"广度优先搜索可视化学习项目"
+        },
+        {
+            "path":"conwaygame-demo",
+            "name":"康威生命游戏可视化学习项目"
+        },
+        {
+            "path":"3dcube-demo",
+            "name":"3D立方可视化学习项目"
+        },
+        {
+            "path":"function-painter-demo",
+            "name":"函数绘图可视化学习项目"
+        },
+        {
+            "path":"supervised-learning",
+            "name":"监督学习学习项目"
+        },
+        {
+            "path":"stickfigure",
+            "name":"火柴人小游戏可视化项目"
         }
 	]
 }

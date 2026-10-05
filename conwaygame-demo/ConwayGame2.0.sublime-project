@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"path": "src",
+            "name":"源代码"
+		},
+        {
+            "path":"D:/libs/Cpp/raylib/include",
+            "name":"Raylib图形库"
+        },
+        {
+            "path":"./",
+            "name":"根目录",
+            "folder_exclude_patterns":["src"]
+        }
+	]
+}

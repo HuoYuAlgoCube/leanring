@@ -1,0 +1,8 @@
+-Wall
+-O2
+
+src/main.c
+src/matrix.c
+src/trainlib.c
+
+-o main

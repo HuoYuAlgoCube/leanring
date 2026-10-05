@@ -1,0 +1,8 @@
+src/main.c
+include/tigr.c
+
+-o out/main
+
+-I "include/"
+-lopengl32
+-lgdi32

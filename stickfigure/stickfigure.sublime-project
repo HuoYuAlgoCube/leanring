@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "src",
+            "name":"源代码"
+		},
+        {
+            "path":"./",
+            "name":"根目录",
+            "folder_exclude_patterns":["src"]
+        }
+	]
+}

@@ -1,0 +1,14 @@
+-Wall
+-O2
+
+src/main.c
+src/render.c
+
+-o main
+
+-I"d:/libs/Cpp/raylib/include"
+-L"d:/libs/Cpp/raylib/lib"
+-lraylib
+-lopengl32
+-lgdi32
+-lwinmm
