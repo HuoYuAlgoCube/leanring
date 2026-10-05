@@ -1,0 +1,9 @@
+-Wall
+-O2
+
+"src\convolve.c"
+"D:\libs\Cpp\tigr\tigr\tigr.c"
+
+-I"D:\libs\Cpp\tigr\tigr"
+-lopengl32
+-lgdi32

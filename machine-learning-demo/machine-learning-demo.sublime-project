@@ -1,0 +1,28 @@
+{
+	"folders":
+	[
+		{
+			"path": "./",
+            "name":"根目录",
+            "folder_exclude_patterns":["res","src"],
+		},
+        {
+            "path": "src",
+            "name":"源代码",
+            "file_include_patterns":["*.c","*.h","*.txt"]
+        },
+        {
+            "path":"res",
+            "name":"资源",
+        },
+        {
+            "path":"D:/libs/Cpp/tigr/tigr",
+            "name":"TIGR图形库",
+            "fire_include_patterns":["*.c","*.h"],
+        },
+        {
+            "path":"D:/libs/Cpp/matrix",
+            "name":"矩阵库"
+        }
+	]
+}

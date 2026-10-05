@@ -1,0 +1,2014 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pri",
+				"printQValues"
+			],
+			[
+				"tar",
+				"targetCol"
+			],
+			[
+				"target",
+				"targetRow"
+			],
+			[
+				"cur",
+				"curRow"
+			],
+			[
+				"row",
+				"row0"
+			],
+			[
+				"ta",
+				"targetRow"
+			],
+			[
+				"nex",
+				"nextCol"
+			],
+			[
+				"ne",
+				"nextRow"
+			],
+			[
+				"d",
+				"dRows"
+			],
+			[
+				"print",
+				"printQValues"
+			],
+			[
+				"prin",
+				"printQValues"
+			],
+			[
+				"cell",
+				"cellSize"
+			],
+			[
+				"tigrB",
+				"tigrBitmap"
+			],
+			[
+				"laye",
+				"layers"
+			],
+			[
+				"sub",
+				"SUB_SIZE"
+			],
+			[
+				"SUB",
+				"SUB_SIZE"
+			],
+			[
+				"ou",
+				"out_size"
+			],
+			[
+				"t",
+				"tt"
+			],
+			[
+				"tt",
+				"turtle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "learning.sublime-project",
+			"file_size": 425,
+			"file_write_time": 134356766468182056,
+			"settings":
+			{
+				"buffer_size": 365,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"left_delete",
+					null,
+					"AQAAACEAAAAAAAAAIQAAAAAAAAABAAAALg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAACEAAAAAAAAAIgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAhAAAAAAAAACEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					5,
+					1,
+					"left_delete",
+					null,
+					"AQAAACEAAAAAAAAAIQAAAAAAAAABAAAALw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "./"
+					},
+					"AgAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAhAAAAAAAAACEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAACQAAAAAAAAAJQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAkAAAAAAAAACQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAACUAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAyAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAlAAAAAAAAACUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					10,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAADIAAAAAAAAANAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAyAAAAAAAAADIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "a"
+					},
+					"AQAAADMAAAAAAAAANAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					12,
+					1,
+					"left_delete",
+					null,
+					"AQAAADMAAAAAAAAAMwAAAAAAAAABAAAAYQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA0AAAAAAAAADQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "name"
+					},
+					"BAAAADMAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA1AAAAAAAAAAAAAAA1AAAAAAAAADYAAAAAAAAAAAAAADYAAAAAAAAANwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAADgAAAAAAAAAOQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA4AAAAAAAAADgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					16,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAADkAAAAAAAAAOwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA5AAAAAAAAADkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					24,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"CAAAADoAAAAAAAAAOwAAAAAAAAAAAAAAOgAAAAAAAAA8AAAAAAAAAAEAAABnOgAAAAAAAAA9AAAAAAAAAAIAAABnZToAAAAAAAAAPwAAAAAAAAADAAAAZ2VuOgAAAAAAAABAAAAAAAAAAAUAAABnZW4nbToAAAAAAAAAQgAAAAAAAAAGAAAAZ2VuJ211OgAAAAAAAABDAAAAAAAAAAgAAABnZW4nbXUnbDoAAAAAAAAAPQAAAAAAAAAJAAAAZ2VuJ211J2x1",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA6AAAAAAAAADoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAD4AAAAAAAAAPwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA+AAAAAAAAAD4AAAAAAAAAAAAAAADwdEA"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAD8AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABMAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA/AAAAAAAAAD8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					32,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAEwAAAAAAAAATgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABMAAAAAAAAAEwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "folder"
+					},
+					"BgAAAE0AAAAAAAAATgAAAAAAAAAAAAAATgAAAAAAAABPAAAAAAAAAAAAAABPAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAABSAAAAAAAAAFMAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABNAAAAAAAAAE0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": "_exclude"
+					},
+					"CAAAAFMAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABVAAAAAAAAAAAAAABVAAAAAAAAAFYAAAAAAAAAAAAAAFYAAAAAAAAAVwAAAAAAAAAAAAAAVwAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFkAAAAAAAAAAAAAAFkAAAAAAAAAWgAAAAAAAAAAAAAAWgAAAAAAAABbAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABTAAAAAAAAAFMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "_pa"
+					},
+					"AwAAAFsAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABdAAAAAAAAAAAAAABdAAAAAAAAAF4AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABbAAAAAAAAAFsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "rtt"
+					},
+					"AwAAAF4AAAAAAAAAXwAAAAAAAAAAAAAAXwAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGEAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABeAAAAAAAAAF4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					37,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGAAAAAAAAAAYAAAAAAAAAABAAAAdA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABhAAAAAAAAAGEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "erns"
+					},
+					"BAAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAABiAAAAAAAAAGMAAAAAAAAAAAAAAGMAAAAAAAAAZAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					40,
+					1,
+					"left_delete",
+					null,
+					"AQAAAF4AAAAAAAAAXgAAAAAAAAABAAAAcg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABfAAAAAAAAAF8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": "r"
+					},
+					"AQAAAF4AAAAAAAAAXwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABeAAAAAAAAAF4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAGUAAAAAAAAAZgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABlAAAAAAAAAGUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					50,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAAGYAAAAAAAAAaAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABmAAAAAAAAAGYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					51,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAGcAAAAAAAAAaQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABnAAAAAAAAAGcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": "mat"
+					},
+					"AwAAAGgAAAAAAAAAaQAAAAAAAAAAAAAAaQAAAAAAAABqAAAAAAAAAAAAAABqAAAAAAAAAGsAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABoAAAAAAAAAGgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					53,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGoAAAAAAAAAagAAAAAAAAABAAAAdA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABrAAAAAAAAAGsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					54,
+					1,
+					"insert",
+					{
+						"characters": "chine-"
+					},
+					"BgAAAGoAAAAAAAAAawAAAAAAAAAAAAAAawAAAAAAAABsAAAAAAAAAAAAAABsAAAAAAAAAG0AAAAAAAAAAAAAAG0AAAAAAAAAbgAAAAAAAAAAAAAAbgAAAAAAAABvAAAAAAAAAAAAAABvAAAAAAAAAHAAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABqAAAAAAAAAGoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": "learn"
+					},
+					"BQAAAHAAAAAAAAAAcQAAAAAAAAAAAAAAcQAAAAAAAAByAAAAAAAAAAAAAAByAAAAAAAAAHMAAAAAAAAAAAAAAHMAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB1AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": "ing-de"
+					},
+					"BgAAAHUAAAAAAAAAdgAAAAAAAAAAAAAAdgAAAAAAAAB3AAAAAAAAAAAAAAB3AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAeQAAAAAAAAAAAAAAeQAAAAAAAAB6AAAAAAAAAAAAAAB6AAAAAAAAAHsAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB1AAAAAAAAAHUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": "mo"
+					},
+					"AgAAAHsAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAAB9AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB7AAAAAAAAAHsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					64,
+					18,
+					"left_delete",
+					null,
+					"EgAAAHwAAAAAAAAAfAAAAAAAAAABAAAAb3sAAAAAAAAAewAAAAAAAAABAAAAbXoAAAAAAAAAegAAAAAAAAABAAAAZXkAAAAAAAAAeQAAAAAAAAABAAAAZHgAAAAAAAAAeAAAAAAAAAABAAAALXcAAAAAAAAAdwAAAAAAAAABAAAAZ3YAAAAAAAAAdgAAAAAAAAABAAAAbnUAAAAAAAAAdQAAAAAAAAABAAAAaXQAAAAAAAAAdAAAAAAAAAABAAAAbnMAAAAAAAAAcwAAAAAAAAABAAAAcnIAAAAAAAAAcgAAAAAAAAABAAAAYXEAAAAAAAAAcQAAAAAAAAABAAAAZXAAAAAAAAAAcAAAAAAAAAABAAAAbG8AAAAAAAAAbwAAAAAAAAABAAAALW4AAAAAAAAAbgAAAAAAAAABAAAAZW0AAAAAAAAAbQAAAAAAAAABAAAAbmwAAAAAAAAAbAAAAAAAAAABAAAAaWsAAAAAAAAAawAAAAAAAAABAAAAaA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB9AAAAAAAAAH0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					65,
+					3,
+					"left_delete",
+					null,
+					"AwAAAGoAAAAAAAAAagAAAAAAAAABAAAAY2kAAAAAAAAAaQAAAAAAAAABAAAAYWgAAAAAAAAAaAAAAAAAAAABAAAAbQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABrAAAAAAAAAGsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					66,
+					1,
+					"paste",
+					null,
+					"AQAAAGgAAAAAAAAAfQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABoAAAAAAAAAGgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					71,
+					1,
+					"left_delete",
+					null,
+					"AQAAAF4AAAAAAAAAXgAAAAAAAAABAAAAcg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABfAAAAAAAAAF8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					74,
+					1,
+					"insert",
+					{
+						"characters": "r"
+					},
+					"AQAAAF4AAAAAAAAAXwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABeAAAAAAAAAF4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					1,
+					1,
+					"left_delete",
+					null,
+					"AQAAAF4AAAAAAAAAXgAAAAAAAAABAAAAcg",
+					"AQAAAAAAAAABAAAAXwAAAAAAAABfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "t"
+					},
+					"AQAAAF8AAAAAAAAAYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXwAAAAAAAABfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAH4AAAAAAAAAfwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfgAAAAAAAAB+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAH8AAAAAAAAAgQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfwAAAAAAAAB/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"paste",
+					null,
+					"AQAAAIAAAAAAAAAAmwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAKEAAAAAAAAAogAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoQAAAAAAAAChAAAAAAAAAAAAAAAA4GpA"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAKIAAAAAAAAAowAAAAAAAAAAAAAAowAAAAAAAACrAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAogAAAAAAAACiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAKsAAAAAAAAArQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqwAAAAAAAACrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BgAAAKwAAAAAAAAArQAAAAAAAAAAAAAArQAAAAAAAAC1AAAAAAAAAAAAAAC1AAAAAAAAALYAAAAAAAAAAAAAALYAAAAAAAAAvgAAAAAAAAAAAAAArQAAAAAAAACtAAAAAAAAAAgAAAAgICAgICAgIK0AAAAAAAAAuQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArAAAAAAAAACsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAALkAAAAAAAAAuwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuQAAAAAAAAC5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "path"
+					},
+					"BAAAALoAAAAAAAAAuwAAAAAAAAAAAAAAuwAAAAAAAAC8AAAAAAAAAAAAAAC8AAAAAAAAAL0AAAAAAAAAAAAAAL0AAAAAAAAAvgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAugAAAAAAAAC6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAL8AAAAAAAAAwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvwAAAAAAAAC/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAMAAAAAAAAAAwgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"paste",
+					null,
+					"AQAAAMEAAAAAAAAA3AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwQAAAAAAAADBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAN0AAAAAAAAA3gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3QAAAAAAAADdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAN4AAAAAAAAA3wAAAAAAAAAAAAAA3wAAAAAAAADrAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3gAAAAAAAADeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAOsAAAAAAAAA7QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6wAAAAAAAADrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "name"
+					},
+					"BAAAAOwAAAAAAAAA7QAAAAAAAAAAAAAA7QAAAAAAAADuAAAAAAAAAAAAAADuAAAAAAAAAO8AAAAAAAAAAAAAAO8AAAAAAAAA8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7AAAAAAAAADsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"",
+					null,
+					"AQAAAPEAAAAAAAAA8gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8QAAAAAAAADxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPEAAAAAAAAA8QAAAAAAAAADAAAA77ya",
+					"AQAAAAAAAAABAAAA8gAAAAAAAADyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAPEAAAAAAAAA8gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8QAAAAAAAADxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAPIAAAAAAAAA9AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8gAAAAAAAADyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"EgAAAPMAAAAAAAAA9AAAAAAAAAAAAAAA8wAAAAAAAAD1AAAAAAAAAAEAAAB68wAAAAAAAAD3AAAAAAAAAAIAAAB6afMAAAAAAAAA+AAAAAAAAAAEAAAAemkncvMAAAAAAAAA+QAAAAAAAAAFAAAAemkncmHzAAAAAAAAAPsAAAAAAAAABgAAAHppJ3JhbvMAAAAAAAAA+QAAAAAAAAAIAAAAemkncmEnbnXzAAAAAAAAAPsAAAAAAAAABgAAAHppJ3JhbvMAAAAAAAAA/AAAAAAAAAAIAAAAemkncmFuJ3nzAAAAAAAAAP4AAAAAAAAACQAAAHppJ3Jhbid5dfMAAAAAAAAA/wAAAAAAAAALAAAAemkncmFuJ3l1J3nzAAAAAAAAAAABAAAAAAAADAAAAHppJ3Jhbid5dSd5YfMAAAAAAAAAAgEAAAAAAAANAAAAemkncmFuJ3l1J3lhbvMAAAAAAAAAAwEAAAAAAAAPAAAAemkncmFuJ3l1J3lhbidj8wAAAAAAAAAEAQAAAAAAABAAAAB6aSdyYW4neXUneWFuJ2No8wAAAAAAAAAGAQAAAAAAABEAAAB6aSdyYW4neXUneWFuJ2NodfMAAAAAAAAABwEAAAAAAAATAAAAemkncmFuJ3l1J3lhbidjaHUnbPMAAAAAAAAA+QAAAAAAAAAUAAAAemkncmFuJ3l1J3lhbidjaHUnbGk",
+					"AQAAAAAAAAABAAAA8wAAAAAAAADzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"DwAAAPkAAAAAAAAA+gAAAAAAAAAAAAAA+QAAAAAAAAD7AAAAAAAAAAEAAAB4+QAAAAAAAAD8AAAAAAAAAAIAAAB4dfkAAAAAAAAA/gAAAAAAAAADAAAAeHVl+QAAAAAAAAD/AAAAAAAAAAUAAAB4dWUnePkAAAAAAAAAAQEAAAAAAAAGAAAAeHVlJ3hp+QAAAAAAAAACAQAAAAAAAAgAAAB4dWUneGknePkAAAAAAAAAAwEAAAAAAAAJAAAAeHVlJ3hpJ3hp+QAAAAAAAAACAQAAAAAAAAoAAAB4dWUneGkneGlu+QAAAAAAAAADAQAAAAAAAAkAAAB4dWUneGkneGn5AAAAAAAAAAQBAAAAAAAACgAAAHh1ZSd4aSd4aWH5AAAAAAAAAAUBAAAAAAAACwAAAHh1ZSd4aSd4aWFu+QAAAAAAAAAHAQAAAAAAAAwAAAB4dWUneGkneGlhbmf5AAAAAAAAAAgBAAAAAAAADgAAAHh1ZSd4aSd4aWFuZydt+QAAAAAAAAD9AAAAAAAAAA8AAAB4dWUneGkneGlhbmcnbXU",
+					"AQAAAAAAAAABAAAA+QAAAAAAAAD5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					103,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAAgBAAAAAAAACQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAEAAAAAAAAIAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					104,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAAkBAAAAAAAACgEAAAAAAAAAAAAACgEAAAAAAAASAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQEAAAAAAAAJAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					105,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAABIBAAAAAAAAFAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgEAAAAAAAASAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					106,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BgAAABMBAAAAAAAAFAEAAAAAAAAAAAAAFAEAAAAAAAAcAQAAAAAAAAAAAAAcAQAAAAAAAB0BAAAAAAAAAAAAAB0BAAAAAAAAJQEAAAAAAAAAAAAAFAEAAAAAAAAUAQAAAAAAAAgAAAAgICAgICAgIBQBAAAAAAAAIAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEwEAAAAAAAATAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"paste",
+					null,
+					"AQAAACABAAAAAAAAZQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIAEAAAAAAAAgAQAAAAAAAAAAAAAAAH9A"
+				],
+				[
+					116,
+					26,
+					"left_delete",
+					null,
+					"GgAAAEIBAAAAAAAAQgEAAAAAAAABAAAAZ0EBAAAAAAAAQQEAAAAAAAABAAAAbkABAAAAAAAAQAEAAAAAAAABAAAAaT8BAAAAAAAAPwEAAAAAAAABAAAAcz4BAAAAAAAAPgEAAAAAAAABAAAAcz0BAAAAAAAAPQEAAAAAAAABAAAAZTwBAAAAAAAAPAEAAAAAAAABAAAAYzsBAAAAAAAAOwEAAAAAAAABAAAAbzoBAAAAAAAAOgEAAAAAAAABAAAAcjkBAAAAAAAAOQEAAAAAAAABAAAAcDgBAAAAAAAAOAEAAAAAAAABAAAALTcBAAAAAAAANwEAAAAAAAABAAAAZTYBAAAAAAAANgEAAAAAAAABAAAAZzUBAAAAAAAANQEAAAAAAAABAAAAYTQBAAAAAAAANAEAAAAAAAABAAAAdTMBAAAAAAAAMwEAAAAAAAABAAAAZzIBAAAAAAAAMgEAAAAAAAABAAAAbjEBAAAAAAAAMQEAAAAAAAABAAAAYTABAAAAAAAAMAEAAAAAAAABAAAAbC8BAAAAAAAALwEAAAAAAAABAAAALS4BAAAAAAAALgEAAAAAAAABAAAAbC0BAAAAAAAALQEAAAAAAAABAAAAYSwBAAAAAAAALAEAAAAAAAABAAAAcisBAAAAAAAAKwEAAAAAAAABAAAAdSoBAAAAAAAAKgEAAAAAAAABAAAAdCkBAAAAAAAAKQEAAAAAAAABAAAAYQ",
+					"AQAAAAAAAAABAAAAQwEAAAAAAABDAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					117,
+					1,
+					"left_delete",
+					null,
+					"AQAAACgBAAAAAAAAKAEAAAAAAAABAAAAbg",
+					"AQAAAAAAAAABAAAAKQEAAAAAAAApAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					118,
+					1,
+					"paste",
+					null,
+					"AQAAACgBAAAAAAAAPQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAEAAAAAAAAoAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					123,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFQBAAAAAAAAVAEAAAAAAAAeAAAA6Ieq54S26K+t6KiA5aSE55CG5a2m5Lmg6aG555uu",
+					"AQAAAAAAAAABAAAAXgEAAAAAAABUAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					133,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"CgAAAFQBAAAAAAAAVQEAAAAAAAAAAAAAVAEAAAAAAABWAQAAAAAAAAEAAABqVAEAAAAAAABYAQAAAAAAAAIAAABqaVQBAAAAAAAAWQEAAAAAAAAEAAAAamkncVQBAAAAAAAAWwEAAAAAAAAFAAAAamkncWlUAQAAAAAAAFwBAAAAAAAABwAAAGppJ3FpJ3hUAQAAAAAAAF0BAAAAAAAACAAAAGppJ3FpJ3h1VAEAAAAAAABfAQAAAAAAAAkAAABqaSdxaSd4dWVUAQAAAAAAAGABAAAAAAAACwAAAGppJ3FpJ3h1ZSd4VAEAAAAAAABYAQAAAAAAAAwAAABqaSdxaSd4dWUneGk",
+					"AQAAAAAAAAABAAAAVAEAAAAAAABUAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					139,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BgAAAFgBAAAAAAAAWQEAAAAAAAAAAAAAWAEAAAAAAABaAQAAAAAAAAEAAAB4WAEAAAAAAABbAQAAAAAAAAIAAAB4dVgBAAAAAAAAXQEAAAAAAAADAAAAeHVlWAEAAAAAAABeAQAAAAAAAAUAAAB4dWUneFgBAAAAAAAAWgEAAAAAAAAGAAAAeHVlJ3hp",
+					"AQAAAAAAAAABAAAAWAEAAAAAAABYAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					147,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"CAAAAFoBAAAAAAAAWwEAAAAAAAAAAAAAWgEAAAAAAABcAQAAAAAAAAEAAAB4WgEAAAAAAABdAQAAAAAAAAIAAAB4aVoBAAAAAAAAXgEAAAAAAAADAAAAeGlhWgEAAAAAAABfAQAAAAAAAAQAAAB4aWFuWgEAAAAAAABhAQAAAAAAAAUAAAB4aWFuZ1oBAAAAAAAAYgEAAAAAAAAHAAAAeGlhbmcnbVoBAAAAAAAAXAEAAAAAAAAIAAAAeGlhbmcnbXU",
+					"AQAAAAAAAAABAAAAWgEAAAAAAABaAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "Starting TermMate agent\ncwd: D:\\workspace\\_learning_\n\nType your message and press Ctrl+Enter to send.\n\n\n\n\n\n❯ 解析项目，不论项目正确性，写一篇介绍性质的README.md\n\n\nI'll analyze the project structure first.\n⏺ bash cd /d/workspace/_learning_ && ls -la && echo \"---\" && find . -maxdepth 2 -not -path '*/node_modules*' -not -path '*/.git/*' | head -50\n⏺ bash cd /d/workspace/_learning_ && find machine-learning-demo natural-language-processing -type f -not -path '*/.pi/*' | sort && echo \"=== PROJECT FILES ===\" && cat learning.sublime-project\n\nC 学习项目。让我读取所有源文件了解内容。\n⏺ bash cd /d/workspace/_learning_ && wc -l machine-learning-demo/src/*.c natural-language-processing/src/*.c && echo \"=== headers/comments ===\" && for f in machine-learning-demo/src/*.c natural-language-processing/src/*.c; do echo \"--- $f ---\"; head -20 \"$f\"; done\n⏺ read\n⏺ read machine-learning-demo/src/search.c#L151\n⏺ bash cd /d/workspace/_learning_ && head -5 machine-learning-demo/res/q-learning-data.txt && echo \"...\" && wc -l machine-learning-demo/res/q-learning-data*.txt && echo \"=== resp.txt ===\" && cat machine-learning-demo/resp.txt && echo \"=== subl projects ===\" && cat machine-learning-demo/machine-learning-demo.sublime-project natural-language-processing/natural-language-processing.sublime-project\n⏺ bash cd /d/workspace/_learning_ && cat machine-learning-demo/machine-learning-demo.sublime-project\n\nNow I have a complete picture. Let me write the README.\n⏺ write README.md\n  ````diff\n  @@ -0,0 +1,280 @@\n  +# _learning_ — C 语言机器学习 / 自然语言处理学习项目\n  +\n  +这是一个用 **C 语言**从零手写实现的**机器学习与自然语言处理学习范例集合**。\n  +项目不依赖任何机器学习框架，所有算法（卷积、Q-Learning、N-Gram 等）均以最朴素的\n  +C 代码手工实现，目的是通过\"重新造轮子\"来理解算法的底层原理。\n  +\n  +代码以 Sublime Text 为编辑器，每个子项目配有独立的 `.sublime-project` / `.sublime-workspace`\n  +工程文件，并带有中文的目录分组（源代码 / 资源 / 图形库 / 矩阵库等）。\n  +\n  +> 说明：本 README 为**介绍性质**，只描述项目\"做了什么、怎么组织、如何运行\"，\n  +> 不对代码的正确性、健壮性或完备性做任何保证。部分文件是尚未完成的草稿。\n  +\n  +---\n  +\n  +## 一、目录结构\n  +\n  +```\n  +_learning_/\n  +├── learning.sublime-project      # 顶层 Sublime 工程（同时挂载两个子项目）\n  +├── learning.sublime-workspace    # Sublime 工作区状态\n  +│\n  +├── machine-learning-demo/        # 机器学习学习项目\n  +│   ├── machine-learning-demo.sublime-project\n  +│   ├── machine-learning-demo.sublime-workspace\n  +│   ├── current.exe               # 编译产物\n  +│   ├── resp.txt                  # 编译命令 / 链接参数备注\n  +│   ├── res/                      # 资源目录\n  +│   │   ├── lfh.png               # 卷积示例使用的图片\n  +│   │   ├── q-learning-data.txt   # Q-Learning 状态/子节点数据（30 行）\n  +│   │   └── q-learning-data2.txt  # Q-Learning 数据（500 行）\n  +│   └── src/                      # 源代码\n  +│       ├── matrix.c              # 矩阵库雏形\n  +│       ├── convolve.c            # 图像卷积（基于 TIGR）\n  +│       ├── q-learning-demo.c     # Q-Learning 走迷宫示例\n  +│       ├── search.c              # Q-Learning 网格寻路示例\n  +│       ├── demo2-2.c             # 权重评分示例\n  +│       └── demo2-3.c             # 空模板\n  +│\n  +└── natural-language-processing/  # 自然语言处理学习项目\n  +    ├── natural-language-processing.sublime-project\n  +    ├── natural-language-processing.sublime-workspace\n  +    ├── current.exe               # 编译产物\n  +    └── src/\n  +        └── ngram.c               # N-Gram 切片示例\n  +```\n  +\n  +---\n  +\n  +## 二、子项目详解\n  +\n  +### 1. matrix.c —— 矩阵库雏形\n  +\n  +一个最小化的浮点矩阵封装，用 `struct` 把指针、行数、列数打包在一起：\n  +\n  +```c\n  +typedef struct {\n  +    float* p;   // 一维数组存储，行优先\n  +    int r;      // 行数\n  +    int c;      // 列数\n  +} Matrix;\n  +```\n  +\n  +提供的能力：\n  +\n  +| 函数 | 作用 |\n  +| --- | --- |\n  +| `matAlloc(r, c)` | 申请 `r × c` 矩阵 |\n  +| `matFree(m)` | 释放内存 |\n  +| `matAssert(m)` | 校验矩阵是否合法 |\n  +| `matInit(m, lower, upper)` | 用 `[lower, upper]` 区间内的随机数初始化 |\n  +| `matPrint(m)` | 以 `| ... |` 形式打印矩阵 |\n  +| `rnd(lower, upper)` | 区间随机数（基于 `rand()`） |\n  +\n  +`main` 中创建一个 2×2 矩阵、随机初始化并打印，是整个项目的\"张量\"基础设施起点。\n  +\n  +---\n  +\n  +### 2. convolve.c —— 图像卷积\n  +\n  +使用 **TIGR** 图形库做图像窗口显示，并在 CPU 上手工实现 2D 卷积：\n  +\n  +```c\n  +void convolve(Tigr* dest, Tigr* src, float kernel[], int dx[], int dy[], int size);\n  +```\n  +\n  +- 遍历源图像每个像素，对 `size × size` 的邻域做加权求和；\n  +- 边界采用**钳制（clamp）**处理：越界的坐标被压回图像边缘；\n  +- 结果按通道（R/G/B）累加后裁剪到 `[0, 255]`；\n  +- `main` 中使用一个 3×3 锐化核：\n  +\n  +  ```\n  +   0  1  0\n  +  -1  5 -1\n  +   0  1  0\n  +  ```\n  +\n  +  并**连续卷积 20 次**后显示在 800×800 的窗口中。\n  +\n  +这是理解 CNN 卷积层原理的最直观示例。依赖项在 `res/resp.txt` 中注明：\n  +\n  +```\n  +-Wall -O2\n  +\"src\\convolve.c\"\n  +\"D:\\libs\\Cpp\\tigr\\tigr\\tigr.c\"\n  +-I\"D:\\libs\\Cpp\\tigr\\tigr\"\n  +-lopengl32 -lgdi32\n  +```\n  +\n  +即需要本地 TIGR 库（默认路径 `D:\\libs\\Cpp\\tigr`）以及 Windows 的 OpenGL / GDI 链接库。\n  +\n  +---\n  +\n  +### 3. q-learning-demo.c —— Q-Learning 网格世界\n  +\n  +一个 **表格型 Q-Learning** 演示。把 10×10 网格编码为状态 `0..99`：\n  +\n  +```\n  +state = x * 10 + y\n  +```\n  +\n  +关键定义：\n  +\n  +| 宏 | 值 | 含义 |\n  +| --- | --- | --- |\n  +| `Q_SIZE` | 100 | 状态数 |\n  +| `SUB_SIZE` | 4 | 每个状态的邻居数 |\n  +| `EPSILON` | 0.3 | 随机探索概率 |\n  +| `ALPHA` | 0.1 | 学习率 |\n  +| `GAMMA` | 0.9 | 折扣因子 |\n  +| `REWARD` | 1000 | 到达/前进奖励 |\n  +| `COUNT` | 1000 | 训练回合数 |\n  +\n  +流程：\n  +\n  +1. `initQValues` —— 随机初始化 Q 表；\n  +2. `readData` —— 从标准输入读取每个状态的 `action` 与 4 个 `subNodes`（邻居）；\n  +3. 训练 `COUNT` 轮，每轮从状态 0 出发，边 `reward()` 更新 Q 值边 `switchState()` 转移，\n  +   直到状态 99（终点）；\n  +4. 训练结束后用**贪心策略**（`epsilon = 0`）回放路径并打印。\n  +\n  +Q 值更新遵循经典公式：\n  +\n  +```\n  +Q(s,a) ← Q(s,a) + α [ r + γ·maxQ(s') − Q(s,a) ]\n  +```\n  +\n  +其中前进方向的邻居（坐标变大）给予 `REWARD`，其余按折扣递推。\n  +邻居数据由 `res/q-learning-data*.txt` 提供（分别对应 30 行与 500 行规模的数据集）。\n  +\n  +---\n  +\n  +### 4. search.c —— Q-Learning 网格寻路\n  +\n  +与上一个示例思想相同，但改用 **`ROW × COL = 10 × 10` 的二维浮点 Q 表**，\n  +并叠加了**曼哈顿距离启发式**，目标是从 `(0,0)` 寻路到 `(9,9)`：\n  +\n  +- `select()` —— ε-贪心动作选择，`flag = 1` 时允许随机探索，\n  +  `flag = 0` 时纯贪心；每次只考虑上下左右 4 个邻格；\n  +- `reward()` —— 对四个邻格做 Q 值更新，若邻格到目标的曼哈顿距离更小则给 `REWARD`（100），\n  +  否则奖励为 0；\n  +- `maxQValue()` —— 取邻域中的最大 Q 值作为 bootstrap 目标。\n  +\n  +参数：`EPSILON = 0.2`、`ALPHA = 0.2`、`GAMMA = 0.8`、训练 20 轮。\n  +训练完成后打印从起点到终点的完整路径坐标。\n  +\n  +---\n  +\n  +### 5. demo2-2.c —— 权重评分玩具\n  +\n  +一个用于理解 **\"权重匹配打分\"** 的小例子：\n  +\n  +- 用户按 `batch_size = 3`、`data_size = 3` 输入样本特征与预测标签 `pred`；\n  +- 随机生成权重向量 `weight`（取值 0/1/2）；\n  +- `getScore()` 对每个样本逐维比对：\n  +  - 权重为 `2` 视为\"通配\"，直接得分；\n  +  - 否则要求 `weight[j] == inp[i][j]`；\n  +  - 全部命中且 `pred == 1`，或未全部命中且 `pred == 0`，则整体计 1 分。\n  +\n  +它是分类/感知机的极度简化雏形，用来观察\"参数如何决定得分\"。\n  +\n  +---\n  +\n  +### 6. demo2-3.c —— 空模板\n  +\n  +仅输出 `Hello!` 的占位文件，用于后续实验。\n  +\n  +---\n  +\n  +### 7. ngram.c —— N-Gram 切片\n  +\n  +自然语言处理项目中的唯一示例，实现最基础的 **N-Gram 滑窗切分**：\n  +\n  +1. 先读入整数 `n`（N-Gram 的窗口大小）；\n  +2. 再读入一行文本到 `buf`；\n  +3. 对文本中每个位置 `i`，连续输出从 `i` 开始的 `n` 个字符，即得到一个 N-Gram。\n  +\n  +辅助函数 `is2Bype()` 用于判断某个字节是否属于双字节字符（GBK 编码范围\n  +`0x81–0x9F` 或 `0xE0–0xEF`），这是为处理中文等多字节文本预留的判断逻辑。\n  +\n  +示例输入：\n  +\n  +```\n  +2\n  +abcde\n  +```\n  +\n  +输出：\n  +\n  +```\n  +ab\n  +bc\n  +cd\n  +de\n  +```\n  +\n  +这是分词、语言模型（统计语言模型）等任务的第一步。\n  +\n  +---\n  +\n  +## 三、环境与运行\n  +\n  +**依赖**\n  +\n  +- C 编译器（MSVC / MinGW / GCC 均可）\n  +- 图形部分额外需要：[TIGR](https://github.com/erkkah/tigr) 单文件图形库，\n  +  以及 Windows 的 `opengl32`、`gdi32`\n  +- `matrix.c`（以及 TIGR 工程中的矩阵库）默认引用本地路径 `D:/libs/Cpp/matrix`，\n  +  见 `machine-learning-demo.sublime-project`\n  +\n  +**编译示例（GCC / MinGW）**\n  +\n  +```bash\n  +# 矩阵示例\n  +gcc machine-learning-demo/src/matrix.c -o matrix.exe && ./matrix.exe\n  +\n  +# Q-Learning 网格世界（数据从标准输入读入）\n  +gcc machine-learning-demo/src/q-learning-demo.c -o ql.exe \\\n  +  && ./ql.exe < machine-learning-demo/res/q-learning-data2.txt\n  +\n  +# Q-Learning 寻路\n  +gcc machine-learning-demo/src/search.c -lm -o search.exe && ./search.exe\n  +\n  +# 权重评分\n  +gcc machine-learning-demo/src/demo2-2.c -o demo22.exe && ./demo22.exe\n  +\n  +# N-Gram\n  +gcc natural-language-processing/src/ngram.c -o ngram.exe && ./ngram.exe\n  +\n  +# 图像卷积（需 TIGR）\n  +gcc -Wall -O2 machine-learning-demo/src/convolve.c \\\n  +    -I\"D:/libs/Cpp/tigr/tigr\" \\\n  +    -lopengl32 -lgdi32 -o convolve.exe && ./convolve.exe\n  +```\n  +\n  +编译产物统一命名为 `current.exe`（顶层工程约定）。在 Sublime Text 中可直接\n  +打开对应的 `.sublime-project` 使用其构建系统编译运行。\n  +\n  +---\n  +\n  +## 四、学习路线（阅读建议）\n  +\n  +```\n  +matrix.c        基础数据结构：矩阵/张量\n  +   │\n  +   ├── convolve.c       → 卷积运算（CNN 的前身）\n  +   ├── demo2-2.c        → 权重与打分（感知机雏形）\n  +   ├── q-learning-demo.c → 强化学习：Q-Learning（一维状态表）\n  +   ├── search.c          → 强化学习：Q-Learning（二维网格 + 启发式寻路）\n  +   └── (demo2-3.c)       → 待续\n  +ngram.c        自然语言处理：N-Gram 切分\n  +```\n  +\n  +---\n  +\n  +## 五、说明\n  +\n  +- 本仓库是**个人学习笔记式的代码集合**，各文件相对独立、各自带有 `main()`，\n  +  并非一个统一的应用程序。\n  +- 代码以\"能讲清原理\"为首要目标，命名、注释与结构都保留了学习过程的痕迹。\n  +- 一切以理解算法为目的，欢迎在此基础上继续实验和改写。\n  ````\n\n已生成 `D:/workspace/_learning_/README.md`。\n\n**项目概况**：这是一个用 C 语言从零手写机器学习/NLP 算法的学习范例集合，配 Sublime Text 工程，分为两个子项目：\n\n- **machine-learning-demo**：`matrix.c`（矩阵库雏形）、`convolve.c`（基于 TIGR 的图像卷积，3×3 锐化核）、`q-learning-demo.c`（表格型 Q-Learning 走 10×10 网格）、`search.c`（Q-Learning + 曼哈顿距离启发式寻路）、`demo2-2.c`（权重打分玩具）、`demo2-3.c`（空模板）\n- **natural-language-processing**：`ngram.c`（N-Gram 滑窗切分，含 GBK 双字节字符判断）\n\n**README 内容**：项目总述、完整目录树、7 个源文件的逐项详解（含数据结构、关键宏参数、算法公式与流程）、编译运行说明（GCC/TIGR 依赖）、学习路线图，以及\"仅作学习用途、不保证正确性\"的声明。\n\n▣ 1 file changed\n    README.md  +280 -0\n \n\n",
+			"settings":
+			{
+				"buffer_size": 8876,
+				"line_ending": "Windows",
+				"name": "Chat View",
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"append",
+					{
+						"characters": "Starting TermMate agent\n"
+					},
+					"AQAAAAAAAAAAAAAAGAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					2,
+					1,
+					"append",
+					{
+						"characters": "cwd: D:\\workspace\\_learning_\n"
+					},
+					"AQAAABgAAAAAAAAANQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					1,
+					"append",
+					{
+						"characters": "\nType your message and press Ctrl+Enter to send.\n"
+					},
+					"AQAAADUAAAAAAAAAZgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"term_chat_input_prompt",
+					{
+						"text": ""
+					},
+					"AQAAAGYAAAAAAAAAawAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BgAAAGsAAAAAAAAAbAAAAAAAAAAAAAAAawAAAAAAAABtAAAAAAAAAAEAAABqawAAAAAAAABuAAAAAAAAAAIAAABqaWsAAAAAAAAAcAAAAAAAAAADAAAAamllawAAAAAAAABxAAAAAAAAAAUAAABqaWUneGsAAAAAAAAAbQAAAAAAAAAGAAAAamllJ3hp",
+					"AQAAAAAAAAABAAAAawAAAAAAAABrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"CAAAAG0AAAAAAAAAbgAAAAAAAAAAAAAAbQAAAAAAAABvAAAAAAAAAAEAAAB4bQAAAAAAAABwAAAAAAAAAAIAAAB4aW0AAAAAAAAAcQAAAAAAAAADAAAAeGlhbQAAAAAAAAByAAAAAAAAAAQAAAB4aWFubQAAAAAAAAB0AAAAAAAAAAUAAAB4aWFuZ20AAAAAAAAAdQAAAAAAAAAHAAAAeGlhbmcnbW0AAAAAAAAAbwAAAAAAAAAIAAAAeGlhbmcnbXU",
+					"AQAAAAAAAAABAAAAbQAAAAAAAABtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"",
+					null,
+					"AQAAAG8AAAAAAAAAcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbwAAAAAAAABvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BgAAAHAAAAAAAAAAcQAAAAAAAAAAAAAAcAAAAAAAAAByAAAAAAAAAAEAAABicAAAAAAAAAB0AAAAAAAAAAIAAABidXAAAAAAAAAAdQAAAAAAAAAEAAAAYnUnbHAAAAAAAAAAdgAAAAAAAAAFAAAAYnUnbHVwAAAAAAAAAHIAAAAAAAAABgAAAGJ1J2x1bg",
+					"AQAAAAAAAAABAAAAcAAAAAAAAABwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"CAAAAHIAAAAAAAAAcwAAAAAAAAAAAAAAcgAAAAAAAAB0AAAAAAAAAAEAAAB4cgAAAAAAAAB1AAAAAAAAAAIAAAB4aXIAAAAAAAAAdgAAAAAAAAADAAAAeGlhcgAAAAAAAAB3AAAAAAAAAAQAAAB4aWFucgAAAAAAAAB5AAAAAAAAAAUAAAB4aWFuZ3IAAAAAAAAAegAAAAAAAAAHAAAAeGlhbmcnbXIAAAAAAAAAdAAAAAAAAAAIAAAAeGlhbmcnbXU",
+					"AQAAAAAAAAABAAAAcgAAAAAAAAByAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"DQAAAHQAAAAAAAAAdQAAAAAAAAAAAAAAdAAAAAAAAAB2AAAAAAAAAAEAAAB6dAAAAAAAAAB3AAAAAAAAAAIAAAB6aHQAAAAAAAAAeAAAAAAAAAADAAAAemhldAAAAAAAAAB5AAAAAAAAAAQAAAB6aGVudAAAAAAAAAB7AAAAAAAAAAUAAAB6aGVuZ3QAAAAAAAAAfAAAAAAAAAAHAAAAemhlbmcncXQAAAAAAAAAfQAAAAAAAAAIAAAAemhlbmcncXV0AAAAAAAAAH8AAAAAAAAACQAAAHpoZW5nJ3F1ZXQAAAAAAAAAgAAAAAAAAAALAAAAemhlbmcncXVlJ3h0AAAAAAAAAIEAAAAAAAAADAAAAHpoZW5nJ3F1ZSd4aXQAAAAAAAAAggAAAAAAAAANAAAAemhlbmcncXVlJ3hpbnQAAAAAAAAAdwAAAAAAAAAOAAAAemhlbmcncXVlJ3hpbmc",
+					"AQAAAAAAAAABAAAAdAAAAAAAAAB0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"",
+					null,
+					"AQAAAHcAAAAAAAAAeAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdwAAAAAAAAB3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"CgAAAHgAAAAAAAAAeQAAAAAAAAAAAAAAeAAAAAAAAAB6AAAAAAAAAAEAAAB4eAAAAAAAAAB7AAAAAAAAAAIAAAB4aXgAAAAAAAAAfQAAAAAAAAADAAAAeGlleAAAAAAAAAB+AAAAAAAAAAUAAAB4aWUneXgAAAAAAAAAgAAAAAAAAAAGAAAAeGllJ3lpeAAAAAAAAACBAAAAAAAAAAgAAAB4aWUneWkncHgAAAAAAAAAggAAAAAAAAAJAAAAeGllJ3lpJ3BpeAAAAAAAAACDAAAAAAAAAAoAAAB4aWUneWkncGlheAAAAAAAAAB7AAAAAAAAAAsAAAB4aWUneWkncGlhbg",
+					"AQAAAAAAAAABAAAAeAAAAAAAAAB4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"CAAAAHsAAAAAAAAAfAAAAAAAAAAAAAAAewAAAAAAAAB9AAAAAAAAAAEAAABqewAAAAAAAAB+AAAAAAAAAAIAAABqaXsAAAAAAAAAgAAAAAAAAAADAAAAamllewAAAAAAAACBAAAAAAAAAAUAAABqaWUnc3sAAAAAAAAAggAAAAAAAAAGAAAAamllJ3NoewAAAAAAAACDAAAAAAAAAAcAAABqaWUnc2hvewAAAAAAAAB9AAAAAAAAAAgAAABqaWUnc2hvYQ",
+					"AQAAAAAAAAABAAAAewAAAAAAAAB7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					73,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"CAAAAH0AAAAAAAAAfgAAAAAAAAAAAAAAfQAAAAAAAAB/AAAAAAAAAAEAAAB4fQAAAAAAAACAAAAAAAAAAAIAAAB4aX0AAAAAAAAAgQAAAAAAAAADAAAAeGlufQAAAAAAAACDAAAAAAAAAAQAAAB4aW5nfQAAAAAAAACEAAAAAAAAAAYAAAB4aW5nJ3p9AAAAAAAAAIUAAAAAAAAABwAAAHhpbmcnemh9AAAAAAAAAH8AAAAAAAAACAAAAHhpbmcnemhp",
+					"AQAAAAAAAAABAAAAfQAAAAAAAAB9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					76,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"AwAAAH8AAAAAAAAAgAAAAAAAAAAAAAAAfwAAAAAAAACBAAAAAAAAAAEAAABkfwAAAAAAAACAAAAAAAAAAAIAAABkZQ",
+					"AQAAAAAAAAABAAAAfwAAAAAAAAB/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					77,
+					1,
+					"insert",
+					{
+						"characters": "READM"
+					},
+					"BQAAAIAAAAAAAAAAgQAAAAAAAAAAAAAAgQAAAAAAAACCAAAAAAAAAAAAAACCAAAAAAAAAIMAAAAAAAAAAAAAAIMAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					78,
+					1,
+					"insert",
+					{
+						"characters": "E.m"
+					},
+					"AwAAAIUAAAAAAAAAhgAAAAAAAAAAAAAAhgAAAAAAAACHAAAAAAAAAAAAAACHAAAAAAAAAIgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					79,
+					1,
+					"insert",
+					{
+						"characters": "d"
+					},
+					"AQAAAIgAAAAAAAAAiQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					93,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAIkAAAAAAAAAigAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiQAAAAAAAACJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					94,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIkAAAAAAAAAiQAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAigAAAAAAAACKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					95,
+					1,
+					"term_chat_send_input",
+					null,
+					"AgAAAGsAAAAAAAAAbQAAAAAAAAAAAAAAiwAAAAAAAACQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiQAAAAAAAACJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					96,
+					1,
+					"term_chat_output_append",
+					{
+						"html_tables":
+						[
+						],
+						"text": "I'll analyze the project structure first.\n"
+					},
+					"AQAAAI4AAAAAAAAAuAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkAAAAAAAAACQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"term_chat_output_append",
+					{
+						"html_tables":
+						[
+						],
+						"text": "⏺ bash cd /d/workspace/_learning_ && ls -la && echo \"---\" && find . -maxdepth 2 -not -path '*/node_modules*' -not -path '*/.git/*' | head -50\n"
+					},
+					"AQAAALgAAAAAAAAARgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAugAAAAAAAAC6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					98,
+					1,
+					"term_chat_output_append",
+					{
+						"html_tables":
+						[
+						],
+						"text": "⏺ bash cd /d/workspace/_learning_ && find machine-learning-demo natural-language-processing -type f -not -path '*/.pi/*' | sort && echo \"=== PROJECT FILES ===\" && cat learning.sublime-project\n"
+					},
+					"AQAAAEYBAAAAAAAABgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASAEAAAAAAABIAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					1,
+					"term_chat_output_append",
+					{
+						"html_tables":
+						[
+						],
+						"text": "\n"
+					},
+					"AQAAAAYCAAAAAAAABwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAIAAAAAAAAIAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					100,
+					1,
+					"term_chat_output_append",
+					{
+						"html_tables":
+						[
+						],
+						"text": "C 学习项目。让我读取所有源文件了解内容。\n"
+					},
+					"AQAAAAcCAAAAAAAAHQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQIAAAAAAAAJAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					101,
+					1,
+					"term_chat_output_append",
+					{
+						"html_tables":
+						[
+						],
+						"text": "⏺ bash cd /d/workspace/_learning_ && wc -l machine-learning-demo/src/*.c natural-language-processing/src/*.c && echo \"=== headers/comments ===\" && for f in machine-learning-demo/src/*.c natural-language-processing/src/*.c; do echo \"--- $f ---\"; head -20 \"$f\"; done\n"
+					},
+					"AQAAAB0CAAAAAAAAJgMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHwIAAAAAAAAfAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					102,
+					1,
+					"term_chat_output_append",
+					{
+						"html_tables":
+						[
+						],
+						"text": "⏺ read\n"
+					},
+					"AQAAACYDAAAAAAAALQMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAMAAAAAAAAoAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					103,
+					1,
+					"term_chat_output_append",
+					{
+						"html_tables":
+						[
+						],
+						"text": "⏺ read machine-learning-demo/src/search.c#L151\n"
+					},
+					"AQAAAC0DAAAAAAAAXAMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALwMAAAAAAAAvAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					104,
+					1,
+					"term_chat_output_append",
+					{
+						"html_tables":
+						[
+						],
+						"text": "⏺ bash cd /d/workspace/_learning_ && head -5 machine-learning-demo/res/q-learning-data.txt && echo \"...\" && wc -l machine-learning-demo/res/q-learning-data*.txt && echo \"=== resp.txt ===\" && cat machine-learning-demo/resp.txt && echo \"=== subl projects ===\" && cat machine-learning-demo/machine-learning-demo.sublime-project natural-language-processing/natural-language-processing.sublime-project\n"
+					},
+					"AQAAAFwDAAAAAAAA6QQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXgMAAAAAAABeAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					105,
+					1,
+					"term_chat_output_append",
+					{
+						"html_tables":
+						[
+						],
+						"text": "⏺ bash cd /d/workspace/_learning_ && cat machine-learning-demo/machine-learning-demo.sublime-project\n"
+					},
+					"AQAAAOkEAAAAAAAATgUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6wQAAAAAAADrBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					106,
+					1,
+					"term_chat_output_append",
+					{
+						"html_tables":
+						[
+						],
+						"text": "\n"
+					},
+					"AQAAAE4FAAAAAAAATwUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUAUAAAAAAABQBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					107,
+					1,
+					"term_chat_output_append",
+					{
+						"html_tables":
+						[
+						],
+						"text": "Now I have a complete picture. Let me write the README.\n⏺ write README.md\n  ````diff\n  @@ -0,0 +1,280 @@\n  +# _learning_ — C 语言机器学习 / 自然语言处理学习项目\n  +\n  +这是一个用 **C 语言**从零手写实现的**机器学习与自然语言处理学习范例集合**。\n  +项目不依赖任何机器学习框架，所有算法（卷积、Q-Learning、N-Gram 等）均以最朴素的\n  +C 代码手工实现，目的是通过\"重新造轮子\"来理解算法的底层原理。\n  +\n  +代码以 Sublime Text 为编辑器，每个子项目配有独立的 `.sublime-project` / `.sublime-workspace`\n  +工程文件，并带有中文的目录分组（源代码 / 资源 / 图形库 / 矩阵库等）。\n  +\n  +> 说明：本 README 为**介绍性质**，只描述项目\"做了什么、怎么组织、如何运行\"，\n  +> 不对代码的正确性、健壮性或完备性做任何保证。部分文件是尚未完成的草稿。\n  +\n  +---\n  +\n  +## 一、目录结构\n  +\n  +```\n  +_learning_/\n  +├── learning.sublime-project      # 顶层 Sublime 工程（同时挂载两个子项目）\n  +├── learning.sublime-workspace    # Sublime 工作区状态\n  +│\n  +├── machine-learning-demo/        # 机器学习学习项目\n  +│   ├── machine-learning-demo.sublime-project\n  +│   ├── machine-learning-demo.sublime-workspace\n  +│   ├── current.exe               # 编译产物\n  +│   ├── resp.txt                  # 编译命令 / 链接参数备注\n  +│   ├── res/                      # 资源目录\n  +│   │   ├── lfh.png               # 卷积示例使用的图片\n  +│   │   ├── q-learning-data.txt   # Q-Learning 状态/子节点数据（30 行）\n  +│   │   └── q-learning-data2.txt  # Q-Learning 数据（500 行）\n  +│   └── src/                      # 源代码\n  +│       ├── matrix.c              # 矩阵库雏形\n  +│       ├── convolve.c            # 图像卷积（基于 TIGR）\n  +│       ├── q-learning-demo.c     # Q-Learning 走迷宫示例\n  +│       ├── search.c              # Q-Learning 网格寻路示例\n  +│       ├── demo2-2.c             # 权重评分示例\n  +│       └── demo2-3.c             # 空模板\n  +│\n  +└── natural-language-processing/  # 自然语言处理学习项目\n  +    ├── natural-language-processing.sublime-project\n  +    ├── natural-language-processing.sublime-workspace\n  +    ├── current.exe               # 编译产物\n  +    └── src/\n  +        └── ngram.c               # N-Gram 切片示例\n  +```\n  +\n  +---\n  +\n  +## 二、子项目详解\n  +\n  +### 1. matrix.c —— 矩阵库雏形\n  +\n  +一个最小化的浮点矩阵封装，用 `struct` 把指针、行数、列数打包在一起：\n  +\n  +```c\n  +typedef struct {\n  +    float* p;   // 一维数组存储，行优先\n  +    int r;      // 行数\n  +    int c;      // 列数\n  +} Matrix;\n  +```\n  +\n  +提供的能力：\n  +\n  +| 函数 | 作用 |\n  +| --- | --- |\n  +| `matAlloc(r, c)` | 申请 `r × c` 矩阵 |\n  +| `matFree(m)` | 释放内存 |\n  +| `matAssert(m)` | 校验矩阵是否合法 |\n  +| `matInit(m, lower, upper)` | 用 `[lower, upper]` 区间内的随机数初始化 |\n  +| `matPrint(m)` | 以 `| ... |` 形式打印矩阵 |\n  +| `rnd(lower, upper)` | 区间随机数（基于 `rand()`） |\n  +\n  +`main` 中创建一个 2×2 矩阵、随机初始化并打印，是整个项目的\"张量\"基础设施起点。\n  +\n  +---\n  +\n  +### 2. convolve.c —— 图像卷积\n  +\n  +使用 **TIGR** 图形库做图像窗口显示，并在 CPU 上手工实现 2D 卷积：\n  +\n  +```c\n  +void convolve(Tigr* dest, Tigr* src, float kernel[], int dx[], int dy[], int size);\n  +```\n  +\n  +- 遍历源图像每个像素，对 `size × size` 的邻域做加权求和；\n  +- 边界采用**钳制（clamp）**处理：越界的坐标被压回图像边缘；\n  +- 结果按通道（R/G/B）累加后裁剪到 `[0, 255]`；\n  +- `main` 中使用一个 3×3 锐化核：\n  +\n  +  ```\n  +   0  1  0\n  +  -1  5 -1\n  +   0  1  0\n  +  ```\n  +\n  +  并**连续卷积 20 次**后显示在 800×800 的窗口中。\n  +\n  +这是理解 CNN 卷积层原理的最直观示例。依赖项在 `res/resp.txt` 中注明：\n  +\n  +```\n  +-Wall -O2\n  +\"src\\convolve.c\"\n  +\"D:\\libs\\Cpp\\tigr\\tigr\\tigr.c\"\n  +-I\"D:\\libs\\Cpp\\tigr\\tigr\"\n  +-lopengl32 -lgdi32\n  +```\n  +\n  +即需要本地 TIGR 库（默认路径 `D:\\libs\\Cpp\\tigr`）以及 Windows 的 OpenGL / GDI 链接库。\n  +\n  +---\n  +\n  +### 3. q-learning-demo.c —— Q-Learning 网格世界\n  +\n  +一个 **表格型 Q-Learning** 演示。把 10×10 网格编码为状态 `0..99`：\n  +\n  +```\n  +state = x * 10 + y\n  +```\n  +\n  +关键定义：\n  +\n  +| 宏 | 值 | 含义 |\n  +| --- | --- | --- |\n  +| `Q_SIZE` | 100 | 状态数 |\n  +| `SUB_SIZE` | 4 | 每个状态的邻居数 |\n  +| `EPSILON` | 0.3 | 随机探索概率 |\n  +| `ALPHA` | 0.1 | 学习率 |\n  +| `GAMMA` | 0.9 | 折扣因子 |\n  +| `REWARD` | 1000 | 到达/前进奖励 |\n  +| `COUNT` | 1000 | 训练回合数 |\n  +\n  +流程：\n  +\n  +1. `initQValues` —— 随机初始化 Q 表；\n  +2. `readData` —— 从标准输入读取每个状态的 `action` 与 4 个 `subNodes`（邻居）；\n  +3. 训练 `COUNT` 轮，每轮从状态 0 出发，边 `reward()` 更新 Q 值边 `switchState()` 转移，\n  +   直到状态 99（终点）；\n  +4. 训练结束后用**贪心策略**（`epsilon = 0`）回放路径并打印。\n  +\n  +Q 值更新遵循经典公式：\n  +\n  +```\n  +Q(s,a) ← Q(s,a) + α [ r + γ·maxQ(s') − Q(s,a) ]\n  +```\n  +\n  +其中前进方向的邻居（坐标变大）给予 `REWARD`，其余按折扣递推。\n  +邻居数据由 `res/q-learning-data*.txt` 提供（分别对应 30 行与 500 行规模的数据集）。\n  +\n  +---\n  +\n  +### 4. search.c —— Q-Learning 网格寻路\n  +\n  +与上一个示例思想相同，但改用 **`ROW × COL = 10 × 10` 的二维浮点 Q 表**，\n  +并叠加了**曼哈顿距离启发式**，目标是从 `(0,0)` 寻路到 `(9,9)`：\n  +\n  +- `select()` —— ε-贪心动作选择，`flag = 1` 时允许随机探索，\n  +  `flag = 0` 时纯贪心；每次只考虑上下左右 4 个邻格；\n  +- `reward()` —— 对四个邻格做 Q 值更新，若邻格到目标的曼哈顿距离更小则给 `REWARD`（100），\n  +  否则奖励为 0；\n  +- `maxQValue()` —— 取邻域中的最大 Q 值作为 bootstrap 目标。\n  +\n  +参数：`EPSILON = 0.2`、`ALPHA = 0.2`、`GAMMA = 0.8`、训练 20 轮。\n  +训练完成后打印从起点到终点的完整路径坐标。\n  +\n  +---\n  +\n  +### 5. demo2-2.c —— 权重评分玩具\n  +\n  +一个用于理解 **\"权重匹配打分\"** 的小例子：\n  +\n  +- 用户按 `batch_size = 3`、`data_size = 3` 输入样本特征与预测标签 `pred`；\n  +- 随机生成权重向量 `weight`（取值 0/1/2）；\n  +- `getScore()` 对每个样本逐维比对：\n  +  - 权重为 `2` 视为\"通配\"，直接得分；\n  +  - 否则要求 `weight[j] == inp[i][j]`；\n  +  - 全部命中且 `pred == 1`，或未全部命中且 `pred == 0`，则整体计 1 分。\n  +\n  +它是分类/感知机的极度简化雏形，用来观察\"参数如何决定得分\"。\n  +\n  +---\n  +\n  +### 6. demo2-3.c —— 空模板\n  +\n  +仅输出 `Hello!` 的占位文件，用于后续实验。\n  +\n  +---\n  +\n  +### 7. ngram.c —— N-Gram 切片\n  +\n  +自然语言处理项目中的唯一示例，实现最基础的 **N-Gram 滑窗切分**：\n  +\n  +1. 先读入整数 `n`（N-Gram 的窗口大小）；\n  +2. 再读入一行文本到 `buf`；\n  +3. 对文本中每个位置 `i`，连续输出从 `i` 开始的 `n` 个字符，即得到一个 N-Gram。\n  +\n  +辅助函数 `is2Bype()` 用于判断某个字节是否属于双字节字符（GBK 编码范围\n  +`0x81–0x9F` 或 `0xE0–0xEF`），这是为处理中文等多字节文本预留的判断逻辑。\n  +\n  +示例输入：\n  +\n  +```\n  +2\n  +abcde\n  +```\n  +\n  +输出：\n  +\n  +```\n  +ab\n  +bc\n  +cd\n  +de\n  +```\n  +\n  +这是分词、语言模型（统计语言模型）等任务的第一步。\n  +\n  +---\n  +\n  +## 三、环境与运行\n  +\n  +**依赖**\n  +\n  +- C 编译器（MSVC / MinGW / GCC 均可）\n  +- 图形部分额外需要：[TIGR](https://github.com/erkkah/tigr) 单文件图形库，\n  +  以及 Windows 的 `opengl32`、`gdi32`\n  +- `matrix.c`（以及 TIGR 工程中的矩阵库）默认引用本地路径 `D:/libs/Cpp/matrix`，\n  +  见 `machine-learning-demo.sublime-project`\n  +\n  +**编译示例（GCC / MinGW）**\n  +\n  +```bash\n  +# 矩阵示例\n  +gcc machine-learning-demo/src/matrix.c -o matrix.exe && ./matrix.exe\n  +\n  +# Q-Learning 网格世界（数据从标准输入读入）\n  +gcc machine-learning-demo/src/q-learning-demo.c -o ql.exe \\\n  +  && ./ql.exe < machine-learning-demo/res/q-learning-data2.txt\n  +\n  +# Q-Learning 寻路\n  +gcc machine-learning-demo/src/search.c -lm -o search.exe && ./search.exe\n  +\n  +# 权重评分\n  +gcc machine-learning-demo/src/demo2-2.c -o demo22.exe && ./demo22.exe\n  +\n  +# N-Gram\n  +gcc natural-language-processing/src/ngram.c -o ngram.exe && ./ngram.exe\n  +\n  +# 图像卷积（需 TIGR）\n  +gcc -Wall -O2 machine-learning-demo/src/convolve.c \\\n  +    -I\"D:/libs/Cpp/tigr/tigr\" \\\n  +    -lopengl32 -lgdi32 -o convolve.exe && ./convolve.exe\n  +```\n  +\n  +编译产物统一命名为 `current.exe`（顶层工程约定）。在 Sublime Text 中可直接\n  +打开对应的 `.sublime-project` 使用其构建系统编译运行。\n  +\n  +---\n  +\n  +## 四、学习路线（阅读建议）\n  +\n  +```\n  +matrix.c        基础数据结构：矩阵/张量\n  +   │\n  +   ├── convolve.c       → 卷积运算（CNN 的前身）\n  +   ├── demo2-2.c        → 权重与打分（感知机雏形）\n  +   ├── q-learning-demo.c → 强化学习：Q-Learning（一维状态表）\n  +   ├── search.c          → 强化学习：Q-Learning（二维网格 + 启发式寻路）\n  +   └── (demo2-3.c)       → 待续\n  +ngram.c        自然语言处理：N-Gram 切分\n  +```\n  +\n  +---\n  +\n  +## 五、说明\n  +\n  +- 本仓库是**个人学习笔记式的代码集合**，各文件相对独立、各自带有 `main()`，\n  +  并非一个统一的应用程序。\n  +- 代码以\"能讲清原理\"为首要目标，命名、注释与结构都保留了学习过程的痕迹。\n  +- 一切以理解算法为目的，欢迎在此基础上继续实验和改写。\n  ````\n"
+					},
+					"AQAAAE8FAAAAAAAAkyAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUQUAAAAAAABRBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					108,
+					1,
+					"term_chat_output_append",
+					{
+						"html_tables":
+						[
+						],
+						"text": "\n"
+					},
+					"AQAAAJMgAAAAAAAAlCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlSAAAAAAAACVIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					109,
+					1,
+					"term_chat_output_append",
+					{
+						"html_tables":
+						[
+						],
+						"text": "已生成 `D:/workspace/_learning_/README.md`。\n\n"
+					},
+					"AQAAAJQgAAAAAAAAviAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAliAAAAAAAACWIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					110,
+					1,
+					"term_chat_output_append",
+					{
+						"html_tables":
+						[
+						],
+						"text": "**项目概况**：这是一个用 C 语言从零手写机器学习/NLP 算法的学习范例集合，配 Sublime Text 工程，分为两个子项目：\n\n"
+					},
+					"AQAAAL4gAAAAAAAABCEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwCAAAAAAAADAIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					111,
+					1,
+					"term_chat_output_append",
+					{
+						"html_tables":
+						[
+						],
+						"text": "- **machine-learning-demo**：`matrix.c`（矩阵库雏形）、`convolve.c`（基于 TIGR 的图像卷积，3×3 锐化核）、`q-learning-demo.c`（表格型 Q-Learning 走 10×10 网格）、`search.c`（Q-Learning + 曼哈顿距离启发式寻路）、`demo2-2.c`（权重打分玩具）、`demo2-3.c`（空模板）\n"
+					},
+					"AQAAAAQhAAAAAAAAziEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABiEAAAAAAAAGIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"term_chat_output_append",
+					{
+						"html_tables":
+						[
+						],
+						"text": "- **natural-language-processing**：`ngram.c`（N-Gram 滑窗切分，含 GBK 双字节字符判断）\n\n"
+					},
+					"AQAAAM4hAAAAAAAAFiIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0CEAAAAAAADQIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					113,
+					1,
+					"term_chat_output_append",
+					{
+						"html_tables":
+						[
+						],
+						"text": "**README 内容**：项目总述、完整目录树、7 个源文件的逐项详解（含数据结构、关键宏参数、算法公式与流程）、编译运行说明（GCC/TIGR 依赖）、学习路线图，以及\"仅作学习用途、不保证正确性\"的声明。"
+					},
+					"AQAAABYiAAAAAAAAfyIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGCIAAAAAAAAYIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					114,
+					1,
+					"term_chat_output_append",
+					{
+						"html_tables":
+						[
+						],
+						"text": "\n"
+					},
+					"AQAAAH8iAAAAAAAAgCIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgSIAAAAAAACBIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					115,
+					1,
+					"term_chat_output_append",
+					{
+						"text": "\n▣ 1 file changed\n    README.md  +280 -0\n "
+					},
+					"AQAAAIAiAAAAAAAAqiIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgiIAAAAAAACCIgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "natural-language-processing/src/ngram.c",
+			"file_size": 645,
+			"file_write_time": 134356769200730991,
+			"settings":
+			{
+				"buffer_size": 610,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "machine-learning-demo/src/q-learning-demo.c",
+			"file_size": 3749,
+			"file_write_time": 134353112346846438,
+			"settings":
+			{
+				"buffer_size": 3616,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"termmate st",
+				"TermMate: Start Chat"
+			],
+			[
+				"perfs",
+				"Preferences: Settings"
+			],
+			[
+				"perf se",
+				"Preferences: Settings"
+			],
+			[
+				"terminus",
+				"Terminus: Close All"
+			],
+			[
+				"terminus cl",
+				"Terminus: Close All"
+			],
+			[
+				"termmate ",
+				"TermMate: Start Chat"
+			],
+			[
+				"terminus ",
+				"Terminus: Close All"
+			],
+			[
+				"perf ",
+				"Preferences: Settings"
+			],
+			[
+				"inus clo",
+				"Terminus: Close All"
+			],
+			[
+				"term",
+				"Terminus: Close"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus close",
+				"Terminus: Close All"
+			],
+			[
+				"term star",
+				"TermMate: Start Chat"
+			],
+			[
+				"termma star",
+				"TermMate: Start Chat"
+			],
+			[
+				"termma st",
+				"TermMate: Start Chat"
+			],
+			[
+				"termmate star",
+				"TermMate: Start Chat"
+			],
+			[
+				"termmate",
+				"TermMate: Clear Session"
+			],
+			[
+				"ter star",
+				"TermMate: Start Chat"
+			],
+			[
+				"term sra",
+				"TermMate: Start Chat"
+			],
+			[
+				"ter ",
+				"TermMate: Model"
+			],
+			[
+				"pack con INs",
+				"Package Control: Install Package"
+			],
+			[
+				"perf",
+				"Preferences: Settings"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"per se",
+				"Preferences: Settings"
+			],
+			[
+				"open file",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"packge ",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"perfer",
+				"Preferences: Key Bindings"
+			],
+			[
+				" perfer pack",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"Perf",
+				"Preferences: Key Bindings"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"Pref",
+				"Preferences: Settings"
+			],
+			[
+				"Prefer",
+				"Preferences: Settings"
+			],
+			[
+				"Prefer K",
+				"Preferences: Key Bindings"
+			],
+			[
+				"Prefer ",
+				"Preferences: Settings"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"Packa Con Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control INa",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"Install Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Selection: Select All"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Install Packge",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 396.0,
+		"history":
+		[
+			"for i in range(10):\n\tprint(f\"{i}\")\n\tfor j in range(10):\n\t\tif not j == i:\n\t\t\tprint(f\"{j}\")",
+			"print(\"\\n\"*10000)",
+			"clear()",
+			"for i in range(100):\n\tprint(f\"{i}\")\n\tfor j in range(5):\n\t\tn = (2*(j+i)+i)%100\n\t\tprint(f\"{n}\")",
+			"1",
+			"print(\"\\n\"*1000000)",
+			"print(\"\\n\"*10000)",
+			"clear()",
+			"for i in range(100):\n\tprint(f\"{i}\");\n\tfor j in range(10):\n\t\tn = (2*i+j)%100\n\t\tprint(f\"{n}\")",
+			"for i in range(100):\n\tprint(f\"{i}\");\n\tfor j in range(10):\n\t\tn = (2*i+1)%100\n\t\tprint(f\"{n}\")",
+			"for i in range(10):\n\tfor j in range(3):\n\t\tprint(f\"{i} {j}\")",
+			"for i in range(10):",
+			"for i in range(10):\n\tfor j in range(10):\n\t\tprint(f\"{i},{j},{i*j},\")",
+			"for i in range(100):\n\tfor j in range(10):\n\t\tprint(f\"{i},{j},{i*j},\")",
+			"for i in range(100):\n\tfor j in range(100):\n\t\tprint(f\"{i},{j},{i*j},\")",
+			"for i in range(100):\n\tfor j in range(10):\n\t\tprint(f\"{i},{j} {i*j}\")",
+			"print(1)",
+			"a = 1",
+			"\n\nimport sublime",
+			"\n\n\n",
+			"cd d:",
+			"print(1)",
+			"hide"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/D/workspace/_learning_/machine-learning-demo/src/q-learning-demo.c",
+		"/D/workspace/_learning_/machine-learning-demo/src/convolve.c",
+		"/D/workspace/_learning_/machine-learning-demo/resp.txt",
+		"/D/workspace/_learning_/machine-learning-demo/src/search.c",
+		"/D/workspace/_learning_/machine-learning-demo/machine-learning-demo.sublime-project",
+		"/D/workspace/demo/machine-learning-demo/machine-learning-demo.sublime-project",
+		"/D/workspace/demo/machine-learning-demo/src/matrix.c",
+		"/D/workspace/demo/machine-learning-demo/src/convolve.c",
+		"/D/workspace/supervised_learning/src/matrix.c",
+		"/D/workspace/demo/machine-learning-demo/src/nn.c",
+		"/D/libs/Cpp/tigr/tigr/tigr.h",
+		"/D/workspace/demo/machine-learning-demo/resp.txt",
+		"/D/workspace/supervised_learning/src/main.c",
+		"/D/workspace/demo/machine-learning-demo/res/2026-10-01 17-24-10.mp4",
+		"/D/workspace/demo/machine-learning-demo/src/nn.txt",
+		"/D/workspace/demo/machine-learning-demo/src/q-learning-demo.c",
+		"/D/workspace/demo/machine-learning-demo/res/q-learning-data.txt",
+		"/D/workspace/demo/machine-learning-demo/res/q-learning-data2.txt",
+		"/D/workspace/demo/machine-learning-demo/proj.sublime-project",
+		"/D/workspace/demo/machine-learning-demo/res/q-learning-subnodes.txt",
+		"/D/workspace/demo/machine-learning-demo/q-learning-demo.c",
+		"/D/workspace/demo/machine-learning-demo/demo2-3.c",
+		"/D/workspace/demo/machine-learning-demo/demo2-2.c",
+		"/D/workspace/supervised_learning/proj.sublime-project",
+		"/D/workspace/ConwayGame_raylib/src/main.c",
+		"/C/Users/LENOVO/AppData/Roaming/Sublime Text/Packages/User/All Autocomplete.sublime-settings",
+		"/D/workspace/function_painter/src/main.c",
+		"/D/workspace/function_painter/proj.sublime-project",
+		"/D/workspace/function_painter/resp.txt",
+		"/D/workspace/function_painter/proj.sublime-workspace",
+		"/D/workspace/function_painter/out/main.exe",
+		"/D/workspace/ConwayGame2.0_raylib/src/cell.c",
+		"/D/workspace/ConwayGame2.0_raylib/src/cell.h",
+		"/D/workspace/ConwayGame2.0_raylib/src/main.c",
+		"/C/Users/LENOVO/Desktop/demo.c",
+		"/C/Users/LENOVO/AppData/Roaming/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/LENOVO/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/C/Users/LENOVO/Desktop/hello.py",
+		"/C/Users/LENOVO/Desktop/三维魔方.html",
+		"/C/Users/LENOVO/AppData/Roaming/Sublime Text/Packages/SublimeAllAutocomplete/All Autocomplete.sublime-settings",
+		"/C/Users/LENOVO/AppData/Roaming/Sublime Text/Packages/All Autocomplete/All Autocomplete.sublime-settings"
+	],
+	"find":
+	{
+		"height": 55.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pcol",
+			"Row",
+			"x2",
+			"dx",
+			"x",
+			"pos2[1]",
+			"pos2[0]",
+			"pos0",
+			"j",
+			"[4][ROW*COL]",
+			"[ROW*COL][4]",
+			"rnd",
+			"\\",
+			"1.0f/9",
+			"upper",
+			"min",
+			"1111",
+			"0000",
+			"1",
+			"0.5",
+			"0.78",
+			"1.0f/9",
+			"0.3",
+			"0.1",
+			"0.3",
+			"r",
+			"TPixel",
+			"tigrBlit",
+			"\\",
+			"Layers",
+			"ceil",
+			"floor",
+			"qValues",
+			"printResult",
+			"readActions",
+			"selectAction",
+			"Valuess",
+			"qValue",
+			"readActions",
+			"qValues[][Q_SIZE]",
+			"qValues[Q_SIZE][]",
+			"actionIndex",
+			"state",
+			"&",
+			"scan"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "learning.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 365,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								349,
+								349
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8876,
+						"regions":
+						{
+							"chatview_input_anchor":
+							{
+								"flags": 144,
+								"regions":
+								[
+									[
+										8875,
+										8876
+									]
+								]
+							},
+							"chatview_prompt_highlight":
+							{
+								"flags": 304,
+								"icon": "Packages/Theme - Default/common/dot.png",
+								"regions":
+								[
+									[
+										109,
+										139
+									]
+								],
+								"scope": "region.purplish"
+							}
+						},
+						"selection":
+						[
+							[
+								8876,
+								8876
+							]
+						],
+						"settings":
+						{
+							"chatview_chat": true,
+							"chatview_input_start": 8875,
+							"chatview_session_id": "01a10c05-c9eb-776e-8c8a-dae3fac1a40c",
+							"draw_minimap": false,
+							"draw_unicode_white_space": "none",
+							"fold_buttons": true,
+							"line_numbers": false,
+							"syntax": "Packages/TermMate/chatview/ChatMD.sublime-syntax",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3104.8,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "natural-language-processing/src/ngram.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								607,
+								607
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "machine-learning-demo/src/q-learning-demo.c",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.4
+	},
+	"input":
+	{
+		"height": 96.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.Terminus":
+	{
+		"height": 629.0,
+		"history":
+		[
+		]
+	},
+	"output.exec":
+	{
+		"height": 353.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "learning.sublime-project",
+	"replace":
+	{
+		"height": 81.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"s",
+				"源代码\\search.c"
+			],
+			[
+				"",
+				"源代码\\q-learning-demo.c"
+			],
+			[
+				"con",
+				"源代码\\convolve.c"
+			],
+			[
+				"re",
+				"根\\resp.txt"
+			],
+			[
+				"ti",
+				"TIGR图形库\\tigr.h"
+			],
+			[
+				"nn",
+				"源代码\\nn.c"
+			],
+			[
+				"q",
+				"D:\\workspace\\demo\\machine-learning-demo\\q-learning-demo.c"
+			],
+			[
+				"main",
+				"out\\main.exe"
+			],
+			[
+				"h",
+				"C:\\Users\\LENOVO\\Desktop\\hello.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\workspace\\matrix\\matrix.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"chatview_agent_provider": "pi",
+		"chatview_model": "deepseek/deepseek-flash",
+		"chatview_model_pi": "deepseek/deepseek-flash"
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"path": "./",
+            "name":"根目录",
+            "folder_exclude_patterns":["machine-learning-demo","natural-language-processing"]
+		},
+        {
+            "path":"natural-language-processing",
+            "name":"自然语言处理学习项目"
+        },
+        {
+            "path":"machine-learning-demo",
+            "name":"机器学习学习项目"
+        }
+	]
+}
