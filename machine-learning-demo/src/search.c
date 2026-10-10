@@ -74,17 +74,6 @@ int main(int argc,char* argv[]){
     printResult(maze);
     printf("q:\n");
     printResult(qValues);
-    // while (row0 != targetRow || col0 != targetCol){
-    //     select(qValues,maze,path,row0,col0,&row1,&col1,1);
-    //     printf("%d %d\n",row1,col1);
-    //     int tempRow,tempCol;
-    //     tempRow = row0;
-    //     row0 = row1;
-    //     row1 = tempRow;
-    //     tempCol = col0;
-    //     col0 = col1;
-    //     col1 = tempCol;
-    // }
     return 0;
 }
 
